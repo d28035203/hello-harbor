@@ -1,4 +1,4 @@
-// main.go — cuddly-fishstick.
+// main.go — hello-harbor.
 // Author: d28035203
 
 package main
